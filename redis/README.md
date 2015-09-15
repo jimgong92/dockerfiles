@@ -1,0 +1,1 @@
+Just a redis image for deploying to Elastic Beanstalk
